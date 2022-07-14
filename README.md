@@ -32,3 +32,5 @@ CONCEPTO  | DEFINICIÓN
  Cuantificación:
  `+` `?` `*`
  
+ > *Te invito a que revises la Wiki de este repositorio, que podrás leer los conceptos de forma más detallada*
+ 
