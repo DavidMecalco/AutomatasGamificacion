@@ -55,6 +55,17 @@ qi((q0))
 graph LR
 qz((qf))
 ```
+
+### Ejemplo de un AUTÓMATA con todos sus elementos.
+
+```mermaid
+graph LR
+qa((q0))
+qa --> qb((q1))
+qb --> qc((q2))
+qc --> qd((q3))
+qd --> qf((qf))
+```
                 
 
 
